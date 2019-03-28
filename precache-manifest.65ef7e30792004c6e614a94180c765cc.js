@@ -4,15 +4,15 @@ self.__precacheManifest = [
     "url": "/ReactBrad/static/js/runtime~main.d5b8d41a.js"
   },
   {
-    "revision": "55c94a7ea4a0922e755f",
-    "url": "/ReactBrad/static/js/main.a0efef04.chunk.js"
+    "revision": "ceb9169f6c71d895a4aa",
+    "url": "/ReactBrad/static/js/main.9f067f04.chunk.js"
   },
   {
     "revision": "665080cb638fb6e58b72",
     "url": "/ReactBrad/static/js/2.88b5c646.chunk.js"
   },
   {
-    "revision": "55c94a7ea4a0922e755f",
+    "revision": "ceb9169f6c71d895a4aa",
     "url": "/ReactBrad/static/css/main.11d832ee.chunk.css"
   },
   {
@@ -20,7 +20,7 @@ self.__precacheManifest = [
     "url": "/ReactBrad/static/css/2.3543e579.chunk.css"
   },
   {
-    "revision": "1acd536745176577191531684721fcab",
+    "revision": "e3fd421b00c24ba5cc0e33e4b839602d",
     "url": "/ReactBrad/index.html"
   }
 ];
