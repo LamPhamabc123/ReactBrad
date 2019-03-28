@@ -20,7 +20,8 @@ class App extends Component {
   render() {
     return (
       <Provider>
-        <Router>
+        
+        <Router basename={process.env.PUBLIC_URL}> 
           <div className="App">
             <Header branding="Contact manager" />
             <div className="container">
@@ -30,7 +31,6 @@ class App extends Component {
                 <Route  exact path="/contact/edit/:id" component={EditContact} />
                 <Route  exact path="/about" component={About} />
                 <Route  exact path="/test" component={Test} />
-
                 <Route  component={NotFound} />
               </Switch>
             </div>
